@@ -1,6 +1,6 @@
 # MIDI Keyboard Trainer
 
-For now, this repository contains a simple C# console application that listens for MIDI input and visualizes the keys pressed on a piano keyboard in real time. The goal is to use this base as the foundation of a piano trainer in the future.
+For now, this repository contains a simple C# console application that listens for MIDI input and visualizes the keys pressed on a piano keyboard in real time. The goal is to use this as the foundation for a piano trainer in the future.
 
 ## Features
 
